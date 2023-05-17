@@ -1,4 +1,7 @@
-# Download the Code and Run
+# picsapp
 
-# npm start
+
+Download the Code and Run
+
+npm start
 
