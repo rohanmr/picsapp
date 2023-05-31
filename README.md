@@ -2,9 +2,11 @@
 
 Simple Code filter images by searching any name
 
-Download the Code and Run
+Download the Code and Run by Following Steps
 
-npm i 
+# Step:
 
-npm start
+1. npm i 
+
+2. npm start
 
