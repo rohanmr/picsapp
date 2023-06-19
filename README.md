@@ -7,7 +7,9 @@ Download the Code and Run by Following Steps.
 # Step:
 
 ```bash
-1. npm i 
+ npm i 
 
-2. npm start
+ #or
+
+ npm start
 ```
