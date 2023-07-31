@@ -1,6 +1,6 @@
 # picsapp
 
-Simple Code filters images by searching any key name.
+Simple Code filters images by searching any key name or keyword
 
 Download the Code 
 
