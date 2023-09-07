@@ -15,6 +15,6 @@ Run it by Following the Steps.
 
  npm start
 ```
-## Go Live:
+## Go to Live Site :
 
 https://picsapps.netlify.app/
